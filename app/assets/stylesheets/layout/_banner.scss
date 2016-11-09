@@ -1,0 +1,21 @@
+.banner {
+background-size: cover;
+height: 10vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.banner-content p {
+  margin: 10px 0px;
+}
+
+.banner-content {
+  text-align: center;
+  flex: 1 0 auto;
+}
+
+
+.banner-content p {
+  color: #E0E0E0;
+}
